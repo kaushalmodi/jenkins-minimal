@@ -17,7 +17,11 @@ secrets/
 secret.*
 *.enc
 *.key
-users/
+
+# Users, accept dummy
+/*/users/*
+!/*/users/users.xml
+!/*/users/dummy*/
 
 # State files
 *.state

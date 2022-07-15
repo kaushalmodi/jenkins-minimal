@@ -11,8 +11,8 @@ and run the ~run_jenkins.sh~ script.
 * Instructions
 ** To quickly run a Jenkins server
 1. Run ~./run_jenkins.sh~.
-3. Enter *admin* as both username and password.
 2. Open ~${HOST}:8081~ URL in your browser.
+3. Enter *dummy* as both username and password.
 ** To update the ~plugins.txt~
 1. Update the plugins using the Jenkins web UI: /Manage Jenkins/ → /Manage Plugins/.
 2. Run ~./update_plugins_txt.sh~
