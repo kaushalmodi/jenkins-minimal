@@ -1,1 +1,3 @@
-Run ~./run_jenkins.sh~.
+1. Run ~./run_jenkins.sh~.
+2. Open ~${HOST}:8080~ URL in your browser.
+3. Enter *admin* as both username and password.
