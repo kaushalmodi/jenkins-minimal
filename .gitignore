@@ -45,6 +45,9 @@ logs/
 # Help files
 help/
 
+# Don't save the Jenkins URL to git
+jenkins.model.JenkinsLocationConfiguration.xml
+
 # Miscellaneous litter
 *.bak
 .nfs*
