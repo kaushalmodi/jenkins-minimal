@@ -17,6 +17,7 @@ secrets/
 secret.*
 *.enc
 *.key
+jenkins.telemetry.Correlator.xml
 
 # Users, accept dummy
 /*/users/*
