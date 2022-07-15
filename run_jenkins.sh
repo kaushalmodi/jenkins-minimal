@@ -7,7 +7,7 @@ set -euo pipefail # http://redsymbol.net/articles/unofficial-bash-strict-mode
 IFS=$'\n\t'
 
 # Initialize variables
-port=8080
+port=8081
 jenkins_version="2.346.2"
 debug=0
 
