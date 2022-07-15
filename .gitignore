@@ -19,7 +19,7 @@ secret.*
 *.key
 jenkins.telemetry.Correlator.xml
 
-# Users, accept dummy
+# Users except dummy
 /*/users/*
 !/*/users/users.xml
 !/*/users/dummy*/
