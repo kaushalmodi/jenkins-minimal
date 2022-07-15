@@ -9,6 +9,10 @@ and run the ~run_jenkins.sh~ script.
 1. Unix type OS. This repo is tested on CentOS 7.6.1810 (<2022-07-15 Fri>)
 2. Java 11.0.2
 * Instructions
+** To quickly run a Jenkins server
 1. Run ~./run_jenkins.sh~.
 2. Open ~${HOST}:8080~ URL in your browser.
 3. Enter *admin* as both username and password.
+** To update the ~plugins.txt~
+1. Update the plugins using the Jenkins web UI: /Manage Jenkins/ → /Manage Plugins/.
+2. Run ~./update_plugins_txt.sh~
